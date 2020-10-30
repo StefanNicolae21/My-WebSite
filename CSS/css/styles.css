@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    background-color: #fff;
+}
+h1{
+    margin:0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+    color: #66BFBF;
+}
+h2{
+font-family: 'Merriweather', serif;
+font-size: 2.5rem;
+color: #66BFBF;
+font-weight: normal;
+}
+h3{
+    font-family: 'Merriweather', serif;
+    color:#11999E;
+  
+}
+p{
+    line-height: 2;
+    color: #235a5c;
+}
+.get-touch{
+    font-family: 'Merriweather', serif;
+    color:#11999E;
+    text-align: center;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    height: 700px;
+    position: relative;
+}
+.footer-link{
+    color:#11999E;
+}
+.my-name{
+    padding-top:10%;
+}
+.job{
+    font-size: 1rem;
+    
+}
+.bottom-cloud{
+position: absolute;
+left:20%;
+top:45%;
+
+}
+.top-cloud{
+position: absolute;
+right:20%;
+top:10%;
+}
+.middle-container{
+ width:50%;
+ margin: 100px auto ;
+ text-align: left;
+ 
+}
+.giphy-img{
+   width: 25%;
+   float: left;
+   margin-right: 10px;
+   margin-top: 20px;
+   
+}
+.computer-img{
+    width: 25%;
+   float: right;
+   margin-left: 10px;
+   margin-top: 20px;
+}
+.bottom-container{
+width: 100%;
+margin: auto;
+text-align: center;
+background-color: #88c5c5;
+padding-top: 20px;
+}
+.skills{
+width: 50%;
+text-align: left;
+margin: 100px auto;
+}
+.contact-me{
+    text-align: center;
+    margin: auto;
+}
+
+
+.btn{
+	box-shadow: 0px 1px 30px 13px #9fb4f2;
+	background-color:#8282f0;
+	border-radius:28px;
+	border:1px solid #718bd1;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+	font-size:17px;
+	padding:10px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #697eb3;
+}
+.btn:hover {
+	background-color:#5590d4;
+}
+.btn:active {
+	position:relative;
+	top:5px;
+}
+.footer-link{
+    text-decoration: none;
+    padding: 2rem;
+    margin: auto;
+    cursor: pointer;
+    color: rgb(66, 88, 187);
+    font-size: 1.5rem;
+}
+.footer-link:hover{
+    color: #ffffff;
+}
+.copyright{
+    font-size: 1rem;
+}
